@@ -13,10 +13,11 @@ Example
 =======
 
 Download the folder and run as: 
-```
-$ python example.py
-```
-
-
-
-
+   * For Python2.*:
+        ```
+        $ python example.py
+        ```
+   * For Python3.*:
+        ```
+        $ python3 example.py
+        ```
